@@ -44,14 +44,7 @@ The app follows a modern Android architecture:
 Contributions, issues, and feature requests are welcome! 
 Feel free to check [issues page](https://github.com/Dhyanbal/Nimma_Guru/issues) if you want to contribute.
 
-## 📸 Screenshots
-*(Coming Soon)*
-<!-- Add your app screenshots here -->
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <img src="https://via.placeholder.com/200x400.png?text=Home+Screen" width="200" alt="Home Screen"/>
-  <img src="https://via.placeholder.com/200x400.png?text=Guru+Profile" width="200" alt="Guru Profile"/>
-  <img src="https://via.placeholder.com/200x400.png?text=Chat+Screen" width="200" alt="Chat Screen"/>
-</div>
+
 
 ## 🛣️ Roadmap
 
