@@ -44,5 +44,32 @@ The app follows a modern Android architecture:
 Contributions, issues, and feature requests are welcome! 
 Feel free to check [issues page](https://github.com/Dhyanbal/Nimma_Guru/issues) if you want to contribute.
 
+## 📸 Screenshots
+*(Coming Soon)*
+<!-- Add your app screenshots here -->
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <img src="https://via.placeholder.com/200x400.png?text=Home+Screen" width="200" alt="Home Screen"/>
+  <img src="https://via.placeholder.com/200x400.png?text=Guru+Profile" width="200" alt="Guru Profile"/>
+  <img src="https://via.placeholder.com/200x400.png?text=Chat+Screen" width="200" alt="Chat Screen"/>
+</div>
+
+## 🛣️ Roadmap
+
+- [x] Initial UI/UX Design & Architecture Setup
+- [x] Mock Data Integration
+- [ ] Implement actual Firebase backend connectivity
+- [ ] Push Notifications integration
+- [ ] Video/Audio call features for mentorship sessions
+- [ ] Multilingual support (Kannada, Hindi, etc.)
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+## 📫 Contact
+
+If you have any questions, suggestions, or feedback, feel free to reach out or create an issue!
+- **Developer:** [Dhyanbal](https://github.com/Dhyanbal)
+
 ---
 *Built with ❤️ to empower generations through knowledge sharing.*
