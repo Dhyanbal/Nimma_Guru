@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ನಿಮ್ಮ ಗುರು</string>
+    <string name="welcome">ಸ್ವಾಗತ</string>
+    <string name="find_your_guru">ನಿಮ್ಮ ಗುರುವನ್ನು ಹುಡುಕಿ</string>
+    <string name="become_a_guru">ಗುರುವಾಗಿ ನೋಂದಾಯಿಸಿ</string>
+    <string name="search_placeholder">ಹೆಸರು, ವಿಷಯ ಅಥವಾ ಹಳ್ಳಿಯ ಮೂಲಕ ಹುಡುಕಿ</string>
+    <string name="popular_skills">ಜನಪ್ರಿಯ ಕೌಶಲ್ಯಗಳು</string>
+    <string name="available_gurus">ಲಭ್ಯವಿರುವ ಗುರುಗಳು</string>
+    <string name="search_results">ಹುಡುಕಾಟದ ಫಲಿತಾಂಶಗಳು</string>
+    <string name="no_gurus_found">ನಿಮ್ಮ ವಿನಂತಿಗೆ ಹೊಂದಿಕೆಯಾಗುವ ಯಾವುದೇ ಗುರುಗಳು ಕಂಡುಬಂದಿಲ್ಲ.</string>
+    <string name="view_profile">ಪ್ರೊಫೈಲ್ ನೋಡಿ</string>
+    <string name="about_guru">ಗುರುವಿನ ಬಗ್ಗೆ</string>
+    <string name="expertise">ಪರಿಣತಿ</string>
+    <string name="location">ಸ್ಥಳ</string>
+    <string name="availability">ಲಭ್ಯತೆ</string>
+    <string name="weekend_timing">ವಾರಾಂತ್ಯ: 9:00 AM - 1:00 PM</string>
+    <string name="student_reviews">ವಿದ್ಯಾರ್ಥಿಗಳ ವಿಮರ್ಶೆಗಳು</string>
+    <string name="no_reviews">ಇನ್ನೂ ಯಾವುದೇ ವಿಮರ್ಶೆಗಳಿಲ್ಲ. ಮೊದಲಿಗರಾಗಿ ವಿಮರ್ಶೆ ಬರೆಯಿರಿ!</string>
+    <string name="experience_question">ನಿಮ್ಮ ಅನುಭವ ಹೇಗಿತ್ತು?</string>
+    <string name="feedback_placeholder">ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಇಲ್ಲಿ ಬರೆಯಿರಿ...</string>
+    <string name="post_feedback">ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿ</string>
+    <string name="review_posted">ವಿಮರ್ಶೆಯನ್ನು ಪೋಸ್ಟ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="chat">ಚಾಟ್</string>
+    <string name="book_now">ಬುಕ್ ಮಾಡಿ</string>
+    <string name="wall_of_fame">ಗೌರವ ಫಲಕ</string>
+    <string name="top_rated_mentors">ನಮ್ಮ ಉನ್ನತ ದರ್ಜೆಯ ಮಾರ್ಗದರ್ಶಕರು</string>
+    <string name="guiding_generation">ಮುಂದಿನ ಪೀಳಿಗೆಗೆ ದಾರಿ ದೀಪ</string>
+    <string name="my_bookings">ನನ್ನ ಕಾಯ್ದಿರಿಸುವಿಕೆಗಳು</string>
+    <string name="community_sessions">ಸಮುದಾಯ ತರಗತಿಗಳು</string>
+    <string name="community_session_calendar">ಸಮುದಾಯ ತರಗತಿಗಳ ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="upcoming_sessions">ಮುಂಬರುವ ಸ್ಥಳೀಯ ತರಗತಿಗಳು</string>
+    <string name="no_sessions_found">ಯಾವುದೇ ಮುಂಬರುವ ತರಗತಿಗಳು ಕಂಡುಬಂದಿಲ್ಲ.</string>
+    <string name="settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="favourites">ಮೆಚ್ಚಿನವುಗಳು</string>
+    <string name="home">ಮುಖಪುಟ</string>
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+    <string name="no_favorites">ಯಾವುದೇ ಮೆಚ್ಚಿನ ಗುರುಗಳನ್ನು ಸೇರಿಸಲಾಗಿಲ್ಲ.</string>
+    <string name="rating">ರೇಟಿಂಗ್</string>
+
+    <!-- AI Assistant -->
+    <string name="ai_assistant_title">AI ಅಧ್ಯಯನ ಸಹಾಯಕ</string>
+    <string name="ai_ask_placeholder">ಪ್ರಶ್ನೆಯನ್ನು ಕೇಳಿ...</string>
+    <string name="ai_error_process">ಕ್ಷಮಿಸಿ, ಅದನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.</string>
+    <string name="ai_explain_image">ಈ ಚಿತ್ರವನ್ನು ವಿವರಿಸಿ</string>
+    <string name="ai_tagline">ನಿಮ್ಮ ಅನುಮಾನಗಳಿಗೆ ತ್ವರಿತ ಸಹಾಯ ಪಡೆಯಿರಿ</string>
+    <string name="try_ai_assistant">AI ಸಹಾಯಕವನ್ನು ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="smart_searching">ಸ್ಮಾರ್ಟ್ ಸರ್ಚಿಂಗ್...</string>
+    <string name="clear_filters">ಫಿಲ್ಟರ್‌ಗಳನ್ನು ತೆಗೆದುಹಾಕಿ</string>
+    <string name="category_all">ಎಲ್ಲಾ</string>
+
+    <!-- Sessions -->
+    <string name="join_session">ತರಗತಿಗೆ ಸೇರಿ</string>
+    <string name="session_finished">ತರಗತಿ ಮುಗಿದಿದೆ</string>
+
+    <!-- Bottom Nav Labels -->
+    <string name="nav_directory">ಡೈರೆಕ್ಟರಿ</string>
+    <string name="nav_sessions">ತರಗತಿಗಳು</string>
+    <string name="nav_thanks">ವಂದನೆಗಳು</string>
+    <string name="nav_fame">ಕೀರ್ತಿ</string>
+    <string name="nav_profile">ಪ್ರೊಫೈಲ್</string>
+
+    <!-- Onboarding -->
+    <string name="choose_language">ಭಾಷೆಯನ್ನು ಆರಿಸಿ</string>
+    <string name="tagline">ಜ್ಞಾನದಾನ — ಜ್ಞಾನ ನೀಡಿ, ಜೀವನ ಬದಲಿಸಿ</string>
+    <string name="get_started">ಪ್ರಾರಂಭಿಸಿ</string>
+
+    <!-- Auth Strings -->
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="signup">ಸೈನ್ ಅಪ್</string>
+    <string name="email">ಇಮೇಲ್</string>
+    <string name="password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="full_name">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="create_account">ಖಾತೆಯನ್ನು ರಚಿಸಿ</string>
+    <string name="welcome_back">ಮತ್ತೆ ಸ್ವಾಗತ</string>
+    <string name="login_to_continue">ಮುಂದುವರಿಯಲು ಲಾಗಿನ್ ಮಾಡಿ</string>
+    <string name="dont_have_account">ಹೊಸ ಖಾತೆಯನ್ನು ರಚಿಸಿ</string>
+    <string name="already_have_account">ಈಗಾಗಲೇ ಖಾತೆಯನ್ನು ಹೊಂದಿದ್ದೀರಾ? ಲಾಗಿನ್ ಮಾಡಿ</string>
+    <string name="forgot_password">ಪಾಸ್‌ವರ್ಡ್ ಮರೆತಿರುವಿರಾ?</string>
+    <string name="i_am_a">ನಾನು ಒಬ್ಬ:</string>
+    <string name="student">ವಿದ್ಯಾರ್ಥಿ</string>
+    <string name="guru">ಗುರು</string>
+    <string name="fill_fields">ದಯವಿಟ್ಟು ಎಲ್ಲಾ ವಿವರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ</string>
+    <string name="guru_profile_details">ಗುರು ಪ್ರೊಫೈಲ್ ವಿವರಗಳು</string>
+    <string name="subject_expertise">ವಿಷಯ ಪರಿಣತಿ (ಉದಾ: ಗಣಿತ)</string>
+    <string name="your_location">ನಿಮ್ಮ ಸ್ಥಳ (ಹಳ್ಳಿ)</string>
+    <string name="about_you">ನಿಮ್ಮ ಬಗ್ಗೆ (ವೃತ್ತಿಪರ ಮಾಹಿತಿ)</string>
+    <string name="join_nimma_guru">ನಿಮ್ಮ ಗುರು ಜೊತೆ ಸೇರಿ</string>
+
+    <!-- Guru Registration -->
+    <string name="register_as_guru">ಗುರುವಾಗಿ ನೋಂದಾಯಿಸಿ</string>
+    <string name="complete_profile_approval">ಅನುಮೋದನೆಗಾಗಿ ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ಪೂರ್ಣಗೊಳಿಸಿ.</string>
+    <string name="guru_name">ಗುರುವಿನ ಹೆಸರು</string>
+    <string name="subject">ವಿಷಯ</string>
+    <string name="registration_submitted">ನೋಂದಣಿಯನ್ನು ಅನುಮೋದನೆಗಾಗಿ ಸಲ್ಲಿಸಲಾಗಿದೆ</string>
+    <string name="submit_approval">ಅನುಮೋದನೆಗಾಗಿ ಸಲ್ಲಿಸಿ</string>
+
+    <!-- Settings -->
+    <string name="language">ಭಾಷೆ</string>
+    <string name="english">ಇಂಗ್ಲಿಷ್</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="account_settings">ಖಾತೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="edit_profile">ಪ್ರೊಫೈಲ್ ಎಡಿಟ್ ಮಾಡಿ</string>
+    <string name="change_password">ಪಾಸ್‌ವರ್ಡ್ ಬದಲಾಯಿಸಿ</string>
+    <string name="notifications">ನೋಟಿಫಿಕೇಶನ್‌ಗಳು</string>
+    <string name="theme">ಥೀಮ್</string>
+    <string name="support_others">ಬೆಂಬಲ ಮತ್ತು ಇತರವು</string>
+    <string name="help_support">ಸಹಾಯ ಮತ್ತು ಬೆಂಬಲ</string>
+    <string name="privacy_policy">ಗೌಪ್ಯತಾ ನೀತಿ</string>
+    <string name="terms_conditions">ನಿಯಮಗಳು ಮತ್ತು ನಿಬಂಧನೆಗಳು</string>
+    <string name="dark">ಡಾರ್ಕ್</string>
+    <string name="light">ಲೈಟ್</string>
+    <string name="close">ಮುಚ್ಚಿ</string>
+    <string name="password_reset_sent">ಪಾಸ್‌ವರ್ಡ್ ಮರುಹೊಂದಿಸುವ ಲಿಂಕ್ ಅನ್ನು %1$s ಗೆ ಕಳುಹಿಸಲಾಗಿದೆ</string>
+    <string name="enter_email_first">ಮೊದಲು ನಿಮ್ಮ ಇಮೇಲ್ ನಮೂದಿಸಿ</string>
+    <string name="bio_label">ನನ್ನ ಬಗ್ಗೆ (ಬಯೋ)</string>
+    <string name="gender">ಲಿಂಗ</string>
+    <string name="male">ಪುರುಷ</string>
+    <string name="female">ಮಹಿಳೆ</string>
+    <string name="location_karnataka">ಸ್ಥಳ (ಕರ್ನಾಟಕ)</string>
+    <string name="district">ಜಿಲ್ಲೆ</string>
+    <string name="village_taluk">ಹಳ್ಳಿ / ತಾಲೂಕು</string>
+
+    <!-- Chat & Notifications -->
+    <string name="no_notifications">ಇನ್ನೂ ಯಾವುದೇ ನೋಟಿಫಿಕೇಶನ್‌ಗಳಿಲ್ಲ</string>
+    <string name="mark_all_read">ಎಲ್ಲವನ್ನೂ ಓದಿದಂತೆ ಗುರುತಿಸಿ</string>
+
+    <!-- Guru Dashboard -->
+    <string name="guru_dashboard_title">ಗುರು ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="welcome_back_name">ಮತ್ತೆ ಸ್ವಾಗತ, %1$s!</string>
+    <string name="total_students">ಒಟ್ಟು ವಿದ್ಯಾರ್ಥಿಗಳು</string>
+    <string name="pending_requests">ಬಾಕಿ ಇರುವ ವಿನಂತಿಗಳು</string>
+    <string name="my_upcoming_sessions_title">ನನ್ನ ಮುಂಬರುವ ತರಗತಿಗಳು</string>
+    <string name="see_all">ಎಲ್ಲವನ್ನೂ ನೋಡಿ</string>
+    <string name="no_sessions_scheduled">ಯಾವುದೇ ಸಮುದಾಯ ತರಗತಿಗಳನ್ನು ನಿಗದಿಪಡಿಸಲಾಗಿಲ್ಲ.</string>
+    <string name="recent_booking_requests">ಇತ್ತೀಚಿನ ಬುಕ್ಕಿಂಗ್ ವಿನಂತಿಗಳು</string>
+    <string name="no_student_bookings">ಇನ್ನೂ ಯಾವುದೇ ವಿದ್ಯಾರ್ಥಿ ಬುಕ್ಕಿಂಗ್‌ಗಳಿಲ್ಲ.</string>
+    <string name="new_session">ಹೊಸ ತರಗತಿ</string>
+    <string name="delete_session_title">ತರಗತಿಯನ್ನು ಅಳಿಸಿ</string>
+    <string name="delete_session_msg">ಈ ಸಮುದಾಯ ತರಗತಿಯನ್ನು ರದ್ದುಗೊಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?</string>
+    <string name="failed_load_bookings">ಬುಕ್ಕಿಂಗ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ</string>
+    <string name="session_deleted">ತರಗತಿಯನ್ನು ಅಳಿಸಲಾಗಿದೆ</string>
+    <string name="delete_failed">ಅಳಿಸಲು ವಿಫಲವಾಗಿದೆ</string>
+    <string name="nav_dashboard">ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="at_time">ಗಂಟೆಗೆ</string>
+    <string name="status_pending">ಬಾಕಿ ಇದೆ</string>
+    <string name="status_approved">ಅನುಮೋದಿಸಲಾಗಿದೆ</string>
+    <string name="status_rejected">ತಿರಸ್ಕರಿಸಲಾಗಿದೆ</string>
+</resources>
